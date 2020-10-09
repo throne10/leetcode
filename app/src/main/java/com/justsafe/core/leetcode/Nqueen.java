@@ -6,6 +6,6 @@ package com.justsafe.core.leetcode;
 */
 public class Nqueen {
     public static void main(String[] s) {
-        System.out.println("1");
+        System.out.println("2");
     }
 }
